@@ -17,4 +17,8 @@ and positive way.</p>
 
 - <b>Game Design (C#) </b>
   - [Spatial Awareness](https://github.com/MahlatseSeloane/Spatial-Awareness)
-  - [Tank Wars - Iteration 1](https://github.com/MahlatseSeloane/Tank-Wars-Iteration-I-)
+  - [Tank Wars - Iteration I](https://github.com/MahlatseSeloane/Tank-Wars-Iteration-I-)
+  - [Tank Wars - Iteration II](https://github.com/MahlatseSeloane/Tank-Wars-Iteration-II)
+  - [Tank Wars - Iteration III](https://github.com/MahlatseSeloane/Tank-Wars-Iteration-III)
+  - [To The Portal - Final Iteration of Tank Wars](https://github.com/MahlatseSeloane/To-The-Portal-Final-Iteration-of-Tank-Wars)
+  - [The Maze Runner](https://github.com/MahlatseSeloane/The-Maze-Runner)
