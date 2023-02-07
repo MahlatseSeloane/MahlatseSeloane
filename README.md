@@ -14,3 +14,7 @@ and positive way.</p>
   - [Reversi](https://github.com/MahlatseSeloane/Reversi)
   - [S-0-S](https://github.com/MahlatseSeloane/S-O-S)
   - [Suicide Checkers](https://github.com/MahlatseSeloane/Suicide-Checkers)
+
+- <b>Game Design (C#) </b>
+  - [Spatial Awareness](https://github.com/MahlatseSeloane/Spatial-Awareness)
+  - [Tank Wars - Iteration 1](https://github.com/MahlatseSeloane/Tank-Wars-Iteration-I-)
