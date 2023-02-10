@@ -8,8 +8,8 @@ would gain on projects that would push an dimpact our socient in a meaningful
 and positive way.</p>
 
 <p>Below are school projects that i worked on which were meant to expose students to many key aspects of engineering and software development. The following are two of the most important aspects:
-- The (software) engineering lifecycle: problem identification, requirements analysis, design, implementation, testing and verification, documentation and maintenance.
--	Project planning and time management.
+- <b>The (software) engineering lifecycle: problem identification, requirements analysis, design, implementation, testing and verification, documentation and maintenance.</b>
+  -	<b>Project planning and time management.</b>
 </p>                       
 <h2>👨‍💻 Software Development Projects:</h2>
 
