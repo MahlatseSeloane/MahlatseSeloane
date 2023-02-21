@@ -22,7 +22,6 @@ and positive way.</p>
   - [Suicide Checkers](https://github.com/MahlatseSeloane/Suicide-Checkers)
 
 - <b>Game Design (C#) </b>
-  - [Spatial Awareness](https://github.com/MahlatseSeloane/Spatial-Awareness)
   - [Tank Wars - Iteration I](https://github.com/MahlatseSeloane/Tank-Wars-Iteration-I-)
   - [Tank Wars - Iteration II](https://github.com/MahlatseSeloane/Tank-Wars-Iteration-II)
   - [Tank Wars - Iteration III](https://github.com/MahlatseSeloane/Tank-Wars-Iteration-III)
